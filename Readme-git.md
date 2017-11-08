@@ -1,0 +1,33 @@
+# Basic Git Commands #
+Purpose |	Command |	Args |	Notes
+--------|---------|----|-------------------------
+Initialize Project|	git init |		
+Status of Project|	git status|		
+Add files/ Add Changes|	git add|	<FileName>, -A (add All files in dir), “.” to add all untracked files |
+Commit|	git commit 	|-m “Message for Commit” |
+List All Commits |	git log |		
+Point to particular commit |	git commit 	| <First 7 letters of commit id> |
+Current branch |	git branch |		
+New Branch |	git checkout |	-b <BranchName> | If Head is pointing to a particular commit, that commit will be committed to newly created branch.
+Link to new Remote Directory |	git remote |	add origin <ssh of remote dir> |
+List Remote Dirs |	git remote	| -v |
+Pull from git |	git pull origin	| <BranchName>	|
+Untracked files check before remove	| git clean -n |		
+Remove Untracked files |	git clean -f | 	-d to remove directories	|
+
+## Git Flow commands and installation ##
+<https://danielkummer.github.io/git-flow-cheatsheet/>
+### Installation ### 	
+**$ brew install git-flow-avh** ***or***	**SourceTree**
+
+Purpose | Command | Alternative | Details
+--------|---------|-------------|----------------|
+Initialization (existing GIT dir) |	git flow init | | |		
+Start Feature |	git flow feature start MYFEATURE | | |		
+Push to Server(Github) |	git flow feature publish MYFEATURE |	git push origin feature/MYFEATURE | |
+From GUI create Pull Request | | |			
+Finish the Feature |	git flow feature finish MYFEATURE | |	Merges MYFEATURE into 'develop'|
+ | | | Removes the feature branch |
+ | | | Switches back to 'develop' branch |
+Push to Server(Github) |	git push origin develop	| | |
+Delete feature branch from GUI(optional) | | |			
