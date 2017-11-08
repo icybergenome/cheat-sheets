@@ -78,10 +78,10 @@ When choosing keywords target keywords of *stage 3 and stage4*. As these keyword
 * Also consider Avg. monthly searches.
 
 ### Keyword model for buyer intent ###
-* "Best" <<Prod>>
-* <<Prod Reviews>>
-* <<Prod Name>>
-* <<Model Number>>
+* "Best" <<"Prod">>
+* <<"Prod Reviews">>
+* <<"Prod Name">>
+* <<"Model Number">>
 * Don't head on direct competition with company producing a product. Google will rank their sites above.
 
 ### Premium Tools for Keyword generation ###
