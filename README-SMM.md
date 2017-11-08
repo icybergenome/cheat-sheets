@@ -56,3 +56,61 @@ Designer clothes, computer peripherals, DVDs, brand name prducts and electronics
 * Late night TV commercials are another tool.
 
 ## Keyword Research ##
+
+### Online Buying stages ###
+* Awareness
+* Research
+* Evaluation of alternatives.
+* Purchase
+* Post Purchase
+* Brand Loyalists
+
+When choosing keywords target keywords of *stage 3 and stage4*. As these keywords helps to make the money.
+### Buyer vs Non-Buyer keywords ###
+
+* best 32-inch LED vs When LED was invented, who invented LED.
+* Where to buy smart phones vs is smartphone harmful
+* Avoid keywords with *free* in it.
+
+### Use Google AdWords Keyword planner ###
+* Go for keywords with high CI(commercial intent).
+* Competition: high, Suggested Bid: Reasonable amount.
+* Also consider Avg. monthly searches.
+
+### Keyword model for buyer intent ###
+* "Best" <<Prod>>
+* <<Prod Reviews>>
+* <<Prod Name>>
+* <<Model Number>>
+* Don't head on direct competition with company producing a product. Google will rank their sites above.
+
+### Premium Tools for Keyword generation ###
+* Keyword Revealer <https://www.keywordrevealer.com/> to check for keyword difficulty.
+  * It means how hard is to rank the web based on organic search results.
+  * Keywords or phrases with more words for instance *5* words are easy to rank. One word keyword is impossible to rank to top pages.
+  * In difficulty analysis following must be of **No** value (On page SEO):
+    * Url
+    * Title
+    * Desc
+    * H1
+  * Should have couple of sites with **Domain Authority** less than 20 with almost no **Backlinks** in the top 10 results.
+  * Usually difficulty of pharase should be less than 23.
+  * Sometimes keyword difficulty score might be inaccurate. For instance if a keyword difficulty score is above 25 but you find a web with DA less than 20 and page authority less than 10. it means its not difficult to rank your page in top results.
+  * Domain availability of .com .org .net suggests page is easy to rank.
+  * If On Page SEO is low  for most of the competitors then ranking your page is more easy and likely.
+  * Google doesn't rank pages on top if the phrases require to be written by experts such as medical terminologies. In this case difficulty seems low but it is difficult to rank. See for some affiliate sites who make it to the top **20**. If it happens then more likely you can also rank your page.
+* SEMResh <https://www.semrush.com/> to check for organic traffic. Very powerful tool.
+  * Using this tool we can browse for keywords that e-commerce sites are ranking for.
+  * enter e-commerce site address and select organic traffic, then apply filters such as *start with* **best**
+  and traffic flow more than **80** and less than **501** and check for KD.
+
+### Some Keyword specific parameters ###
+* Keyword should be a buyer Keyword
+  * Starts with best, ends with review.
+* KD should be less than 25
+  * Once your site becomes older google start trusting your site more. And then you can target for harder keywords.
+* Easiest keywords have exact match domains are available (.com .net .org)
+* For very easy phrases none of the top 10 Google results will have on Page SEO.
+* If you see domains with a domain authority of 20 or less in top 10, thats a good sign and phrase is easy to rank for. But if more than 2 or 3 such sites exist in top 10, it means few sites are going after for SEO. But if on page SEO for such sites are nonexistent or Backlinks pages are zero, then its easy.
+* Few sites in top results must have 0 Backlinks.
+* Presence of other affiliate sites in the SERPs.
