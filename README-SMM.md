@@ -85,7 +85,7 @@ When choosing keywords target keywords of *stage 3 and stage4*. As these keyword
 * Don't head on direct competition with company producing a product. Google will rank their sites above.
 
 ### Premium Tools for Keyword generation ###
-* Keyword Revealer <https://www.keywordrevealer.com/> to check for keyword difficulty.
+* Keyword Revealer <https://www.keywordrevealer.com/> or KwFinder<https://kwfinder.com/> to check for keyword difficulty.
   * It means how hard is to rank the web based on organic search results.
   * Keywords or phrases with more words for instance *5* words are easy to rank. One word keyword is impossible to rank to top pages.
   * In difficulty analysis following must be of **No** value (On page SEO):
@@ -103,8 +103,17 @@ When choosing keywords target keywords of *stage 3 and stage4*. As these keyword
   * Using this tool we can browse for keywords that e-commerce sites are ranking for.
   * enter e-commerce site address and select organic traffic, then apply filters such as *start with* **best**
   and traffic flow more than **80** and less than **501** and check for KD.
+  1. Enter a keyword and set filter like:
+    * Enter Buyer's Keywords i.e. Starts with Best and Ends with Review, Reviews.
+    * Search volume greater than 80.
+    * Search volume less tha 500.
+  2. Enter e-commerce/manufacturer's site address and apply filter:
+    * Contains your ***keyword*** or contains ***vs***(i.e. help buyer's to decide which product to finalize).
+    * Enter Buyer's Keywords i.e. Starts with Best and Ends with Review, Reviews.
+    * Search volume greater than 80.
+    * Search volume less tha 500.
 
-### Some Keyword specific parameters ###
+### Some specific parameters for easy Keywords  ###
 * Keyword should be a buyer Keyword
   * Starts with best, ends with review.
 * KD should be less than 25
@@ -114,3 +123,44 @@ When choosing keywords target keywords of *stage 3 and stage4*. As these keyword
 * If you see domains with a domain authority of 20 or less in top 10, thats a good sign and phrase is easy to rank for. But if more than 2 or 3 such sites exist in top 10, it means few sites are going after for SEO. But if on page SEO for such sites are nonexistent or Backlinks pages are zero, then its easy.
 * Few sites in top results must have 0 Backlinks.
 * Presence of other affiliate sites in the SERPs.
+
+**<site:www.website.com> on google will reveal the size of site in terms of number of pages**
+**Initially go for longer phrases as site starts to get better rank, go for shorter phrases also**
+
+## Use SILOS for better SERP(Search Engine Result Page) ##
+Organize your site's topics in several silos or categories. This way search engine will rate your site better. As it would be easy to find the content on a site like this. Each category should contain a page related to that particular category.
+
+Following two factors are important for ranking better on google:
+1. Closely related pages in categories for greater topical relevance of the site.
+2. Use **LSI** keyword phrases to make greater page relevance.
+**Both site and each page of site need to be relevant to the keywords we are targeting.**
+
+Following must keep in mind for better SEO:
+* How content is relevant to each other does matter. Use Google KPT to find relevant subcategory for each     category. Or use e-commerce site to identify sub-topics.
+* Each Category should have **25 to 30** pages, so that it will give a relevancy boost to other pages.
+* In **anchor tags** text should not be replicate for a same a link if it has been used in multiple places.
+* Don't give links to top level pages such as Home or Contact Us.
+
+## Research on Niche ##
+* Blogs or existing affiliated sites contents and note the jargons and keywords.
+* SEMResh keyword magic tool.
+* MerchantWords <www.merchantwords.com> and type keyword or buyer's keywords.
+* <www.tinysuggest.com>
+* Google's suggest scraper.
+* Scrape already top ranked sites, using SEMResh organic search using filters.
+
+### 1. Silos creation ###
+* Use Google KWP and amazon to list down.
+* Silo should have 30 to 35 related keywords.
+* 15 to 20 should start with best or end with reviews.
+* Around 5 should be names of popular brands.
+* Few should contain 'for','with','vs' or 'under'.
+* Around 5 should be informational (Difficulty score doesn't matter for them)
+* Use aforementioned tools like keywordrevealer, SEMResh and others to find and check the difficulty of each keyword.
+
+### 2. Select products to promote ###
+* Search on Amazon and select product based on criteria:
+  * Reasonable high price
+  * reviews (with atleast 1000 and 4 to 5 star)
+* Check for keyword difficulty of each product.
+* Not all products sold on Amazon is belong to big brand.
