@@ -164,3 +164,13 @@ Following must keep in mind for better SEO:
   * reviews (with atleast 1000 and 4 to 5 star)
 * Check for keyword difficulty of each product.
 * Not all products sold on Amazon is belong to big brand.
+
+### Niche Site Keyword Research Criteria ###
+Important rules are:
+* KD of keyword should be less than or eqaul to 35( near to medium words difficulty as per Keyword Revealer)
+* Search volume has to be at least 100 per month.
+Since Silos are not implemented in it so we have a freedom to use keywords as long as they match with our site's overall theme.
+Creation Criteria:
+* At least 25 to 30 buyer's keywords.
+* 3 to 5 product reviews.
+* 3 to 5 informational keywords.
