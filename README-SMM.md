@@ -145,7 +145,7 @@ Following must keep in mind for better SEO:
 * Blogs or existing affiliated sites contents and note the jargons and keywords.
 * SEMResh keyword magic tool.
 * MerchantWords <www.merchantwords.com> and type keyword or buyer's keywords.
-* <www.tinysuggest.com>
+* <www.tinysuggest.com> is a Google suggest scraper.
 * Google's suggest scraper.
 * Scrape already top ranked sites, using SEMResh organic search using filters.
 
@@ -174,3 +174,13 @@ Creation Criteria:
 * At least 25 to 30 buyer's keywords.
 * 3 to 5 product reviews.
 * 3 to 5 informational keywords.
+
+### Never try EMD(exact match domain) or PMD(partial match domain) domain names ###
+These type of domain names are suitable for local SEO.
+For affiliate or larger sites, ***over optimization penalties*** might get imposed i.e. <abcproducts.com/abcproduct>.
+PMDs make link building a difficult task.
+Before acquiring a domain do check if the domain was bought in a past. Because some domain names might be traditionally bought and got penalized and made available again. Their rank could never be improved no matter what.
+**Domain Availability** site: <https://www.namecheap.com>
+**Check domain bought in past** <whois.domaintools.com>
+**Tools to measure site speed** <https://gtmetrix.com/> and <https://developers.google.com/speed/pagespeed/insights/>
+  
