@@ -80,13 +80,17 @@ console.log(str);
 ```
 ### String helper: search ###
 **startsWith**
-``
+
+```
 let str = "butterfly".startsWith("butter"); //return true
+
 ```
 **endsWith**
+
 ```
 let str = "butterfly".endsWith("butter"); //return true
 ```
+
 **includes**
 
 ```
