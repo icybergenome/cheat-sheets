@@ -190,3 +190,134 @@ Data structure that contains non-repeated set of values.
 >console.log(value);
 
 >}
+
+## MAPS ##
+The Map object holds key-value pairs. Any value (both objects and primitive values) may be used as either a key or a value
+>let m = new Map();
+
+>let str = "new string";
+
+>let obj = {a : "one", b: "two"};
+
+>let func = () => {console.log("Hello")};
+
+>m.set(str,"return value for string key");
+
+>m.set(obj,"return value for object key");
+
+>m.set(func,"return value for function key");
+
+>for (let [key,value] of m.entries()){
+
+>  console.log(\`${key} is pointing to ${value}\`);
+
+>}
+
+>console.log(m.get(obj));
+
+<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map>
+
+## CLOSURE ##
+A closure is the combination of a function and the lexical environment within which that function was declared.
+* Closures in JavaScript and ES6 refer to functions that remember their creation environment and can further reference that environment’s independent variables.
+* Lexical scoping refers to the JavaScript concept of programs keeping track of variable locations to understand in which scopes they can be accessed.
+* Function factories create functions based on returning inner functions that manipulate its own arguments and the arguments of the outer function.
+* Data encapsulation and private methods don’t exist natively in JavaScript but can be emulated with closures for data restriction and limited access.
+
+**Basic CLosure**
+>let call = () => {
+
+>	let secret = "Its a secret variable";
+
+>  let reveal = () => {
+
+>  	console.log(secret);
+
+>  }
+
+>  reveal();
+
+>}
+
+>call();
+
+**Lexical Scoping**
+>let call = () => {
+
+>	let secret = "Its a secret variable";  
+
+>  let reveal = () => {
+
+>  	console.log(secret);
+
+>  }
+
+>  return reveal;
+
+>}
+
+>let unveil = call();
+
+>unveil();
+
+In other programming languages and usually once a function finished execution the local variables are then inaccessible. So as per those standards variable ***secret*** is inaccessible, but not in the case of JS!
+
+**Function Factories**
+
+>let product = (x) => {
+
+>  let m = (y) => {
+
+>  	return x * y;
+
+>  }
+
+>  return m;
+
+>}
+
+>let mul = product(5);
+
+>console.log(mul(3));
+
+*OR the Shorter Version*
+
+>let product = (x) => (y) => x * y;
+
+>let mul = product(5);
+
+>console.log(mul(3));
+
+**Private Methods**
+
+>const budget = () => {
+
+>	let balance = 0;
+
+>  let changeBal = (val) => {
+
+>  	return balance += val;
+
+>  }
+
+>  const deposit20 = () => changeBal(20);
+
+>  const check = () => balance;
+
+>  
+
+>  return {
+
+>  	deposit20: deposit20,
+
+>    check: check
+
+>  }
+
+>}
+
+>let newAccount = budget();
+
+>newAccount.deposit20();
+
+>console.log(newAccount.check());
