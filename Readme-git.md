@@ -14,7 +14,7 @@ List Remote Dirs |	git remote	| -v |
 Pull from git |	git pull origin	| <BranchName>	|
 Untracked files check before remove	| git clean -n |		
 Remove Untracked files |	git clean -f | 	-d to remove directories	|
-Fetch files | git fetch | 
+Fetch files | git fetch | put --all to fetch all files | 
 ## Git Flow commands and installation ##
 <https://danielkummer.github.io/git-flow-cheatsheet/>
 ### Installation ### 	
