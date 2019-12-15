@@ -1,7 +1,7 @@
 # Basic Git Commands #
 Purpose |	Command |	Args |	Notes
 --------|---------|----|-------------------------
- Clones a repository into a newly created directory| git-clone | -l, -s etc | URL:https://git-scm.com/docs/git-clone 
+ Clones a repository into a newly created directory| git-clone | -l, -s etc | URL: https://git-scm.com/docs/git-clone 
 Initialize Project|	git init |		
 Status of Project|	git status|		
 Add files/ Add Changes|	git add|	<FileName>, -A (add All files in dir), “.” to add all untracked files |
@@ -16,8 +16,8 @@ Pull from git |	git pull origin	| <BranchName>	|
 Untracked files check before remove	| git clean -n |		
 Remove Untracked files |	git clean -f | 	-d to remove directories	|
 Fetch files | git fetch | put --all to fetch all files | 
-Stash the changes in a dirty working directory away|  git-stash  | pop, apply, branch etc |URL:https://git-scm.com/docs/git-stash
-Reapply commits on top of another base tip | git-rebase | [-i | --interactive] [<options>] [--exec <cmd>] | https://git-scm.com/docs/git-rebase
+Stash the changes in a dirty working directory away|  git-stash  | pop, apply, branch etc |URL: https://git-scm.com/docs/git-stash
+Reapply commits on top of another base tip | git-rebase | [-i , --interactive] [<options>] [--exec <cmd>] | URL: https://git-scm.com/docs/git-rebase
 ## Git Flow commands and installation ##
 <https://danielkummer.github.io/git-flow-cheatsheet/>
 ### Installation ### 	
