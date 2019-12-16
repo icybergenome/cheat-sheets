@@ -18,6 +18,11 @@ Remove Untracked files |	git clean -f | 	-d to remove directories	|
 Fetch files | git fetch | put --all to fetch all files | 
 Stash the changes in a dirty working directory away|  git-stash  | pop, apply, branch etc |URL: https://git-scm.com/docs/git-stash
 Reapply commits on top of another base tip | git-rebase | [-i , --interactive] | URL: https://git-scm.com/docs/git-rebase
+Reset current HEAD to the specified state | git reset | [mode] [commit] | URL: https://git-scm.com/docs/git-reset
+Show changes between commits, commit and working tree, etc | git diff | -p, -u etc | URL: https://git-scm.com/docs/git-diff
+Remove files from the working tree and from the index | git-rm | -f, --force etc | URL: https://git-scm.com/docs/git-rm
+Create, list, delete or verify a tag object signed with GPG | git tag | -a, -s etc | URL: https://git-scm.com/docs/git-tag
+
 ## Git Flow commands and installation ##
 <https://danielkummer.github.io/git-flow-cheatsheet/>
 ### Installation ### 	
