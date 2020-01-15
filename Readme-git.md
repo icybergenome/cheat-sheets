@@ -13,8 +13,8 @@ New Branch |	git checkout |	-b **BranchName** | If Head is pointing to a particu
 Switch Branch | git checkout **BranchName**
 Link to new Remote Directory |	git remote |	add origin <ssh of remote dir> |
 List Remote Dirs |	git remote	| -v |
-Pull from git |	git pull origin	| <BranchName>	|
-Push from git | git push origin | <BranchName>  |
+Pull from git |	git pull origin	| **BranchName**	|
+Push from git | git push origin | **BranchName**  |
 Untracked files check before remove	| git clean -n |		
 Remove Untracked files |	git clean -f | 	-d to remove directories	|
 Fetch files | git fetch | put --all to fetch all files | 
