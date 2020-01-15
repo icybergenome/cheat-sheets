@@ -10,6 +10,7 @@ List All Commits |	git log |
 Point to particular commit |	git commit 	| <First 7 letters of commit id> |
 Current branch |	git branch |		
 New Branch |	git checkout |	-b **BranchName** | If Head is pointing to a particular commit, that commit will be committed to newly created branch.
+Switch Branch | git checkout **BranchName**
 Link to new Remote Directory |	git remote |	add origin <ssh of remote dir> |
 List Remote Dirs |	git remote	| -v |
 Pull from git |	git pull origin	| <BranchName>	|
